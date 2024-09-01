@@ -28,6 +28,11 @@ run：
 ```
 ./github-activity kamranahmedse
 ```
+or
+```
+node index.cjs kamranahmedse
+```
+
 
 result：
 ```

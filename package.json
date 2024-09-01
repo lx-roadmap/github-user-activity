@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "pkg -t node18-win-x64 index.cjs -o github-activity.exe"
+  },
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ]
+  }
+}
